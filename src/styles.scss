@@ -17,6 +17,9 @@ ul{
   list-style: none;
 }
 
+textarea:focus, input:focus, button{
+  outline: none;
+}
 // Classes
 .container{
   width: 350px;
